@@ -1,0 +1,8 @@
+{
+  "env": {
+    "mocha": true
+  },
+  "rule": {
+    "no-used-expressions": "off"
+  }
+}
